@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Desi AS</name>
+   <tag></tag>
+   <elementGuidId>3b054022-dab8-42e0-9dfd-77232740348c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mount_0_0_ol']/div/div/div/div[2]/div[4]/div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/a/div/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.d2edcug0.hpfvmrgz.qv66sw1b.c1et5uql.lr9zc1uh.a8c37x1j.fe6kdd0r.mau55g9w.c8b282yb.keod5gw0.nxhoafnm.aigsh9s9.d3f4x2em.mdeji52x.a5q79mjw.g1cxx5fr.lrazzd5p.oo9gr5id.hzawbc8m</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>dbe53b3f-e747-4362-a8c7-678d08da08bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d2edcug0 hpfvmrgz qv66sw1b c1et5uql lr9zc1uh a8c37x1j fe6kdd0r mau55g9w c8b282yb keod5gw0 nxhoafnm aigsh9s9 d3f4x2em mdeji52x a5q79mjw g1cxx5fr lrazzd5p oo9gr5id hzawbc8m</value>
+      <webElementGuid>2ad6434c-1e6b-4c1e-9bf3-2f04c979cec6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>ea949d24-4410-4e32-a6e6-c52b2bd1eae9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Desi AS</value>
+      <webElementGuid>31a7d09e-35f9-4b77-b82d-1cf805887d30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mount_0_0_ol&quot;)/div[1]/div[1]/div[@class=&quot;rq0escxv l9j0dhe7 du4w35lb&quot;]/div[2]/div[@class=&quot;ehxjyohh kr520xx4 poy2od1o b3onmgus hv4rvrfc n7fi1qx3&quot;]/div[2]/div[1]/div[@class=&quot;__fb-dark-mode&quot;]/div[@class=&quot;j34wkznp qp9yad78 pmk7jnqg kr520xx4&quot;]/div[@class=&quot;iqfcb0g7 tojvnm2t a6sixzi8 k5wvi7nf q3lfd5jv pk4s997a bipmatt0 cebpdrjk qowsmv63 owwhemhu dp1hu0rb dhp61c6y l9j0dhe7 iyyx5f41 a8s20v7p&quot;]/div[1]/div[@class=&quot;knvmm38d&quot;]/div[@class=&quot;l9j0dhe7&quot;]/div[@class=&quot;rq0escxv cwj9ozl2 nwpbqux9 io0zqebd m5lcvass fbipl8qg nwvqtn77 ni8dbmo4 stjgntxs&quot;]/div[@class=&quot;o8kakjsu rpm2j7zs k7i0oixp gvuykj2m j83agx80 cbu4d94t l9j0dhe7 du4w35lb d76ob5m9 qan41l3s eg9m0zos c3g1iek1 t1wsaese h77mwsce o36gj0jk&quot;]/div[@class=&quot;j83agx80 cbu4d94t buofh1pr l9j0dhe7&quot;]/div[1]/div[@class=&quot;idiwt2bm lzcic4wl ni8dbmo4 stjgntxs l9j0dhe7 dbpd2lw6&quot;]/div[@class=&quot;rq0escxv du4w35lb ms05siws pnx7fd3z b7h9ocf4 pmk7jnqg j9ispegn kr520xx4 pedkr2u6 oqq733wu k4urcfbm&quot;]/div[@class=&quot;l9j0dhe7 du4w35lb rq0escxv j83agx80 cbu4d94t d2edcug0 d8ncny3e buofh1pr g5gj957u tgvbjcpo cxgpxx05&quot;]/div[@class=&quot;rq0escxv l9j0dhe7 du4w35lb j83agx80 cbu4d94t buofh1pr tgvbjcpo i1fnvgqd&quot;]/div[@class=&quot;rq0escxv l9j0dhe7 du4w35lb j83agx80 cbu4d94t pfnyh3mw d2edcug0&quot;]/div[@class=&quot;j83agx80 l9j0dhe7 k4urcfbm&quot;]/div[@class=&quot;rq0escxv l9j0dhe7 du4w35lb g5ia77u1 io0zqebd m5lcvass fbipl8qg nwvqtn77 k4urcfbm kmp5kqmu aahdfvyu wkznzc2l sjgh65i0 dhix69tm&quot;]/a[@class=&quot;oajrlxb2 g5ia77u1 mtkw9kbi tlpljxtp qensuy8j ppp5ayq2 goun2846 ccm00jje s44p3ltw mk2mc5f4 rt8b4zig n8ej3o3l agehan2d sk4xxmp2 rq0escxv nhd2j8a9 mg4g778l pfnyh3mw p7hjln8o tgvbjcpo hpfvmrgz jb3vyjys rz4wbd8a qt6c0cv9 a8nywdso l9j0dhe7 i1ao9s8h esuyzwwr f1sip0of du4w35lb n00je7tq arfg74bv qs9ysxi8 k77z8yql btwxx1t3 abiwlrkh p8dawk7l lzcic4wl bp9cbjyn a8c37x1j taijpn5t aov4n071 cgat1ltu bi6gxh9e kkf49tns dbpd2lw6&quot;]/div[@class=&quot;rq0escxv l9j0dhe7 du4w35lb j83agx80 pfnyh3mw i1fnvgqd bp9cbjyn owycx6da btwxx1t3 dflh9lhu scb9dxdr sj5x9vvc cxgpxx05 dlv3wnog rl04r1d5 enqfppq2 muag1w35&quot;]/div[@class=&quot;rq0escxv l9j0dhe7 du4w35lb j83agx80 cbu4d94t d2edcug0 hpfvmrgz rj1gh0hx buofh1pr g5gj957u ph5uu5jm b3onmgus e5nlhep0 ecm0bbzt&quot;]/span[@class=&quot;d2edcug0 hpfvmrgz qv66sw1b c1et5uql lr9zc1uh a8c37x1j fe6kdd0r mau55g9w c8b282yb keod5gw0 nxhoafnm aigsh9s9 d3f4x2em mdeji52x a5q79mjw g1cxx5fr lrazzd5p oo9gr5id hzawbc8m&quot;]</value>
+      <webElementGuid>c6f11824-3fe5-46db-9beb-157eabe5d6e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5e2eb14d-e90a-446c-90fb-c2b2f1fb59d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d2edcug0 hpfvmrgz qv66sw1b c1et5uql lr9zc1uh a8c37x1j fe6kdd0r mau55g9w c8b282yb keod5gw0 nxhoafnm aigsh9s9 d3f4x2em mdeji52x a5q79mjw g1cxx5fr lrazzd5p oo9gr5id hzawbc8m</value>
+      <webElementGuid>87556916-b7e6-4f31-92c3-0fcd7c0e0055</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>c0aa0170-31a7-4142-a32d-d4e55b41cafe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Desi AS</value>
+      <webElementGuid>46e448cf-a6b1-48ae-a988-b0db612556c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mount_0_0_8z&quot;)/div[1]/div[1]/div[@class=&quot;rq0escxv l9j0dhe7 du4w35lb&quot;]/div[2]/div[@class=&quot;ehxjyohh kr520xx4 poy2od1o b3onmgus hv4rvrfc n7fi1qx3&quot;]/div[2]/div[1]/div[@class=&quot;__fb-dark-mode&quot;]/div[@class=&quot;j34wkznp qp9yad78 pmk7jnqg kr520xx4&quot;]/div[@class=&quot;iqfcb0g7 tojvnm2t a6sixzi8 k5wvi7nf q3lfd5jv pk4s997a bipmatt0 cebpdrjk qowsmv63 owwhemhu dp1hu0rb dhp61c6y l9j0dhe7 iyyx5f41 a8s20v7p&quot;]/div[1]/div[@class=&quot;knvmm38d&quot;]/div[@class=&quot;l9j0dhe7&quot;]/div[@class=&quot;rq0escxv cwj9ozl2 nwpbqux9 io0zqebd m5lcvass fbipl8qg nwvqtn77 ni8dbmo4 stjgntxs&quot;]/div[@class=&quot;o8kakjsu rpm2j7zs k7i0oixp gvuykj2m j83agx80 cbu4d94t l9j0dhe7 du4w35lb d76ob5m9 qan41l3s eg9m0zos c3g1iek1 t1wsaese h77mwsce o36gj0jk&quot;]/div[@class=&quot;j83agx80 cbu4d94t buofh1pr l9j0dhe7&quot;]/div[1]/div[@class=&quot;idiwt2bm lzcic4wl ni8dbmo4 stjgntxs l9j0dhe7 dbpd2lw6&quot;]/div[@class=&quot;rq0escxv du4w35lb ms05siws pnx7fd3z b7h9ocf4 pmk7jnqg j9ispegn kr520xx4 pedkr2u6 oqq733wu k4urcfbm&quot;]/div[@class=&quot;l9j0dhe7 du4w35lb rq0escxv j83agx80 cbu4d94t d2edcug0 d8ncny3e buofh1pr g5gj957u tgvbjcpo cxgpxx05&quot;]/div[@class=&quot;rq0escxv l9j0dhe7 du4w35lb j83agx80 cbu4d94t buofh1pr tgvbjcpo i1fnvgqd&quot;]/div[@class=&quot;rq0escxv l9j0dhe7 du4w35lb j83agx80 cbu4d94t pfnyh3mw d2edcug0&quot;]/div[@class=&quot;j83agx80 l9j0dhe7 k4urcfbm&quot;]/div[@class=&quot;rq0escxv l9j0dhe7 du4w35lb g5ia77u1 io0zqebd m5lcvass fbipl8qg nwvqtn77 k4urcfbm kmp5kqmu aahdfvyu wkznzc2l sjgh65i0 dhix69tm&quot;]/a[@class=&quot;oajrlxb2 g5ia77u1 mtkw9kbi tlpljxtp qensuy8j ppp5ayq2 goun2846 ccm00jje s44p3ltw mk2mc5f4 rt8b4zig n8ej3o3l agehan2d sk4xxmp2 rq0escxv nhd2j8a9 mg4g778l pfnyh3mw p7hjln8o tgvbjcpo hpfvmrgz jb3vyjys rz4wbd8a qt6c0cv9 a8nywdso l9j0dhe7 i1ao9s8h esuyzwwr f1sip0of du4w35lb n00je7tq arfg74bv qs9ysxi8 k77z8yql btwxx1t3 abiwlrkh p8dawk7l lzcic4wl bp9cbjyn a8c37x1j taijpn5t aov4n071 cgat1ltu bi6gxh9e kkf49tns dbpd2lw6&quot;]/div[@class=&quot;rq0escxv l9j0dhe7 du4w35lb j83agx80 pfnyh3mw i1fnvgqd bp9cbjyn owycx6da btwxx1t3 dflh9lhu scb9dxdr sj5x9vvc cxgpxx05 dlv3wnog rl04r1d5 enqfppq2 muag1w35&quot;]/div[@class=&quot;rq0escxv l9j0dhe7 du4w35lb j83agx80 cbu4d94t d2edcug0 hpfvmrgz rj1gh0hx buofh1pr g5gj957u ph5uu5jm b3onmgus e5nlhep0 ecm0bbzt&quot;]/span[@class=&quot;d2edcug0 hpfvmrgz qv66sw1b c1et5uql lr9zc1uh a8c37x1j fe6kdd0r mau55g9w c8b282yb keod5gw0 nxhoafnm aigsh9s9 d3f4x2em mdeji52x a5q79mjw g1cxx5fr lrazzd5p oo9gr5id hzawbc8m&quot;]</value>
+      <webElementGuid>30d4240b-9a2e-4f81-8143-938c9874c273</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mount_0_0_ol']/div/div/div/div[2]/div[4]/div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/a/div/div[2]/span</value>
+      <webElementGuid>0cdbb2d9-70fb-4dea-a44b-13f9a227ea5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Semua Profil'])[1]/preceding::span[1]</value>
+      <webElementGuid>ee65a9c2-3425-452d-a64b-017b73350185</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengaturan &amp; Privasi'])[1]/preceding::span[2]</value>
+      <webElementGuid>4d882f75-798f-424d-885e-d3aac463dbb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Desi AS']/parent::*</value>
+      <webElementGuid>e6e612f3-1e3b-4ae0-bf47-5078e0f85214</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/div[2]/span</value>
+      <webElementGuid>d4751729-447b-45d3-9a60-28d3fe5534b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Desi AS' or . = 'Desi AS')]</value>
+      <webElementGuid>f1315d76-8bda-4b2c-9bbc-46bf436be218</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mount_0_0_8z']/div/div/div/div[2]/div[4]/div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/a/div/div[2]/span</value>
+      <webElementGuid>260620a2-5601-4b1f-baf3-04ea56091e30</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
